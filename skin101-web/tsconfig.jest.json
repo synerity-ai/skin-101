@@ -1,0 +1,9 @@
+{
+  "extends": "./tsconfig.app.json",
+  "compilerOptions": {
+    "module": "ES2022",
+    "moduleResolution": "node",
+    "verbatimModuleSyntax": false,
+    "types": ["vite/client", "jest", "node"]
+  }
+}
