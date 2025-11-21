@@ -5,9 +5,9 @@ export default {
     extend: {
       colors: {
         primary: {
-          DEFAULT: '#0F9AA8', // teal accent
-          dark: '#0B737D',
-          light: '#4EC4CF',
+          DEFAULT: '#EC4899', // pink accent
+          dark: '#DB2777',
+          light: '#F472B6',
         },
         accent: '#C18E3C', // warm gold
         ink: '#0F1C2C',
